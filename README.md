@@ -1,5 +1,4 @@
 # thunderbolt
-#thunderbolt
 
 Thunderbolt is an implementation/port of the OpenFST forum.
 
