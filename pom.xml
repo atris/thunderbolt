@@ -18,7 +18,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.github.atris.thunderbolt</groupId>
+  <groupId>io.github.atris.thunderbolt</groupId>
   <artifactId>thunderbolt</artifactId>
   <name>thunderbolt</name>
   <version>0.3.0</version>
